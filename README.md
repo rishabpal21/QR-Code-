@@ -50,7 +50,7 @@ QR-Code-Generator/
 1. Clone this repository:
 
   
-   git clone https://github.com/rishabpal21/QR-Code-
+   git clone https://rishabpal21.github.io/QR-Code-/
 
 
 2. Open `index.html` in your browser, or run it using the Live Server extension in VS Code.
@@ -77,7 +77,7 @@ QR-Code-Generator/
 
 **Rishab Pal**
 
-- GitHub: [YOUR-USERNAME](https://github.com/rishabpal21)
+- GitHub: [https://github.com/rishabpal21]
 
 ## 📄 License
 
